@@ -1,0 +1,48 @@
+////
+asciidoc --backend slidy 3_Praesi.ad
+////
+:author: Jörg Reuter
+:copyright: Jörg Reuter 2013
+:backend: slidy
+:max-width: 45em
+:data-uri: https://github.com/joergre
+[role="incremental"]
+Der Kunde steht im Mittelpunkt
+------------------------------
+[role="incremental"]
+* nicht die Technik
+* nicht die Durchführung
+
+Projekt ist erfolgreich
+-----------------------
+* Glücklicher Kunde
+** Im Zeitplan
+** Im Finanzrahmen
+** Einhalten der Spezifikationen
+** Qualität
+** Glücklicher Durchführender
+
+Spezifikation
+-------------
+* Ist die Spezifikation der ursprüngliche Kundenwunsch?
+* Der Kunde weiß oft nicht genau, was er möchte.
+* Change Management
+
+Qualität
+--------
+* Wieviel muss getestet werden.
+* Wie wichtig ist das System?
+* Wieviele Fehler sind akzeptabel
+
+Scheitern
+---------
+* Technologie
+** zu alt
+** zu neu
+* Falscher Schwerpunkt
+** Cange Managment
+* Unrealistischer Kunde
+* Projektdurchführende
+** Mangelnde Fähigkeit
+
+
