@@ -4,12 +4,12 @@ Jörg Reuter <joerg@reuter.sc>
 :docbooktype: book
 :Author Initials: Jörg Reuter
 :Author: Jörg Reuter
-:date: 2013-08-02
+:date: 2014-02-21
 :toc:
 :icons:
 :numbered:
 :website: https://github.com/joergre
-:revision: 1.0
+:revision: 1.1
 
 .Bewertung Dokumentation
 [cols="m, asciidoc, l, l", options="header"]
@@ -42,4 +42,33 @@ Jörg Reuter <joerg@reuter.sc>
 - auftragsgerecht, strukturiert, nachvollziehbar
 - Visualisierung
 | 0,10 |
+|===============================================================
+
+.Bewertung Präsentation
+[cols="m, asciidoc, l, l", options="header"]
+|==============================================================
+|Bewertungsfeld | Bewertungskriterien| Gewichtung| Punkte
+|Aufbau und inhaltliche Struktur| 
+* Zielorientierung 
+* Sachliche Gliederung
+* Zeitliche Gliederung
+* Logik
+| 0,10 |
+|Präsentationstechnik | 
+* Medieneinsatz
+* Virtualisierung
+* Körpersprache
+| 0,15 |
+| Kommunikative Kompetenz | 
+* Sprachstil
+* Ausdrucksweise
+* Satzbau
+* Überzeugungsfähigkeit
+| 0,20 |
+| Vollständigkeit und fachl. Kompetenz |
+* Fachhintergrund
+* Verwendung von Fachbegriffen
+* Argumentation
+* Thematische Durchdringung
+| 0,55 |
 |===============================================================
